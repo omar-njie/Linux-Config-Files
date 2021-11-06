@@ -1,0 +1,41 @@
+[Data Source]
+DisplayName=Holidays in United States
+Enabled=true
+Parent=3cbfa3d4f9dee4cae14efc273e85014450eead8f
+
+[Authentication]
+Host=apidata.googleusercontent.com
+Method=OAuth2
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=omzinho8051113@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Resource]
+Identity=events::https://apidata.googleusercontent.com/caldav/v2/cln2stbjc4hmgrrcd5i62ua0ctp6utbg5pr2sor1dhimsp31e8n6errfctm6abj3dtmg%40virtual/events/
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=true
+Color=#16a765
+DisplayName=Holidays in United States
+EmailAddress=
+ResourcePath=/caldav/v2/cln2stbjc4hmgrrcd5i62ua0ctp6utbg5pr2sor1dhimsp31e8n6errfctm6abj3dtmg%40virtual/events/
+ResourceQuery=
+SslTrust=
+Order=0
+
+[Calendar]
+BackendName=caldav
+Color=#16a765
+Selected=true
+Order=0
+
+[Alarms]
+IncludeMe=true
+LastNotified=2021-11-04T22:41:06.306145Z

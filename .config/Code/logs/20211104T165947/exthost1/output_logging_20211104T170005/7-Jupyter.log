@@ -1,0 +1,24 @@
+Info 2021-11-04 17:00:06: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-11-04 17:00:07: ZMQ install verified.
+Info 2021-11-04 17:00:09: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 2021-11-04 17:00:16: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-11-04 17:00:16: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-11-04 17:00:16: Process Execution: > /usr/bin/python3 -c "import jupyter"
+> /usr/bin/python3 -c "import jupyter"
+Info 2021-11-04 17:00:16: Process Execution: > /usr/bin/python3 -c "import jupyter"
+> /usr/bin/python3 -c "import jupyter"
+Info 2021-11-04 17:00:16: Process Execution: > /usr/bin/python3 -c "import notebook"
+> /usr/bin/python3 -c "import notebook"
+Info 2021-11-04 17:00:16: Process Execution: > /usr/bin/python3 -c "import notebook"
+> /usr/bin/python3 -c "import notebook"
+Info 2021-11-05 16:38:47: Shutting down notebooks for 61e35f08-1b5a-4037-af43-82c40c9c725c
+Info 2021-11-05 16:38:47: Disposing HostJupyterExecution 2f31fad4-f880-4fec-9bde-0835664cb845
+Info 2021-11-05 16:38:47: Disposing super HostJupyterExecution 2f31fad4-f880-4fec-9bde-0835664cb845
+Info 2021-11-05 16:38:47: Disposing HostJupyterExecution 2f31fad4-f880-4fec-9bde-0835664cb845
+Info 2021-11-05 16:38:47: Finished disposing HostJupyterExecution  2f31fad4-f880-4fec-9bde-0835664cb845
+Info 2021-11-05 16:38:47: Cleaning up server cache 2f31fad4-f880-4fec-9bde-0835664cb845
+Info 2021-11-05 16:38:47: Finished disposing HostJupyterExecution  2f31fad4-f880-4fec-9bde-0835664cb845

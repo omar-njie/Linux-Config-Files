@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="18" last-seen="1636067024"/>
+    <application id="xdg-desktop-portal-gtk.desktop" score="1" last-seen="1636066974"/>
+    <application id="org.gnome.font-viewer.desktop" score="1" last-seen="1636064935"/>
+    <application id="org.gnome.Nautilus.desktop" score="13" last-seen="1636197386"/>
+    <application id="gnome-initial-setup.desktop" score="5" last-seen="1636062529"/>
+    <application id="firefox_firefox.desktop" score="350" last-seen="1636229092"/>
+    <application id="yelp.desktop" score="4" last-seen="1636064168"/>
+    <application id="org.gnome.gedit.desktop" score="3" last-seen="1636197211"/>
+    <application id="code.desktop" score="106" last-seen="1636070663"/>
+    <application id="org.gnome.Terminal.desktop" score="17205" last-seen="1636229094"/>
+    <application id="gnome-control-center.desktop" score="84" last-seen="1636195378"/>
+    <application id="update-manager.desktop" score="5" last-seen="1636063100"/>
+    <application id="sublime_text.desktop" score="152" last-seen="1636196789"/>
+    <application id="org.gnome.FileRoller.desktop" score="2" last-seen="1636064703"/>
+  </context>
+</application-state>

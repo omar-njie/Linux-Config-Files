@@ -1,0 +1,22 @@
+[2021-11-04 16:08:39.597] [exthost] [info] Extension host with pid 6672 started
+[2021-11-04 16:08:39.919] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-04 16:08:40.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-04 16:08:40.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-04 16:08:40.143] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+[2021-11-04 16:08:40.148] [exthost] [info] ExtensionService#_doActivateExtension extr0py.vscode-relative-line-numbers, startup: true, activationEvent: '*'
+[2021-11-04 16:08:40.156] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: true, activationEvent: '*'
+[2021-11-04 16:08:40.606] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2021-11-04 16:08:40.796] [exthost] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: true, activationEvent: '*'
+[2021-11-04 16:08:40.811] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-11-04 16:08:40.883] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-11-04 16:08:42.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-04 16:08:49.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:08:49.822] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:08:50.942] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:08:51.026] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:09:07.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-04 16:09:07.452] [exthost] [info] Eager extensions activated
+[2021-11-04 16:09:11.513] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+[2021-11-04 16:09:12.673] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+[2021-11-04 16:12:47.683] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-04 16:12:48.783] [exthost] [info] Extension host with pid 6672 exiting with code 0

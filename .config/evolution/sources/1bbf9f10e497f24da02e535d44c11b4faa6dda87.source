@@ -1,0 +1,57 @@
+[Data Source]
+DisplayName=omzinho8051113@gmail.com
+Enabled=true
+Parent=3cbfa3d4f9dee4cae14efc273e85014450eead8f
+
+[Mail Account]
+BackendName=imapx
+IdentityUid=309c2fbd2995b44b8d2a11457bff8f6ba1ccd520
+ArchiveFolder=
+NeedsInitialSetup=true
+MarkSeen=inconsistent
+MarkSeenTimeout=1500
+
+[Authentication]
+Host=imap.gmail.com
+Method=XOAUTH2
+Port=993
+ProxyUid=system-proxy
+RememberPassword=true
+User=omzinho8051113@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Offline]
+StaySynchronized=false
+
+[Imapx Backend]
+FilterInbox=true
+StoreChangesInterval=3
+LimitByAge=false
+LimitUnit=years
+LimitValue=1
+UseMultiFetch=false
+CheckAll=false
+CheckSubscribed=false
+ConcurrentConnections=3
+FetchOrder=ascending
+FilterAll=false
+FilterJunk=false
+FilterJunkInbox=false
+Namespace=
+RealJunkPath=
+RealTrashPath=
+ShellCommand=ssh -C -l %u %h exec /usr/sbin/imapd
+UseIdle=true
+UseNamespace=false
+UseQresync=false
+UseRealJunkPath=false
+UseRealTrashPath=false
+UseShellCommand=false
+UseSubscriptions=false
+IgnoreOtherUsersNamespace=false
+IgnoreSharedFoldersNamespace=false
+FullUpdateOnMeteredNetwork=true

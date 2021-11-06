@@ -1,0 +1,30 @@
+[Info  - 4:10:36 PM] Pylance language server 2021.11.0 (pyright fb86eac6) starting
+[Info  - 4:10:36 PM] Server root directory: /home/omar/.vscode/extensions/ms-python.vscode-pylance-2021.11.0/dist
+[Info  - 4:10:38 PM] No configuration file found.
+[Info  - 4:10:38 PM] No pyproject.toml file found.
+[Info  - 4:10:38 PM] Setting pythonPath for service "Desktop": "/bin/python3"
+[Warn  - 4:10:38 PM] stubPath /home/omar/Desktop/typings is not a valid directory.
+[Info  - 4:10:38 PM] Assuming Python version 3.9
+[Info  - 4:10:38 PM] Assuming Python platform Linux
+[Warn  - 4:10:43 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:10:43 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:10:43 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:10:43 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 4:10:43 PM] Searching for source files
+[Info  - 4:10:43 PM] Found 1 source file
+[Info  - 4:10:43 PM] Background analysis(1) root directory: /home/omar/.vscode/extensions/ms-python.vscode-pylance-2021.11.0/dist
+[Info  - 4:10:43 PM] Background analysis(1) started
+[Info  - 4:10:43 PM] Background analysis(2) root directory: /home/omar/.vscode/extensions/ms-python.vscode-pylance-2021.11.0/dist
+[Info  - 4:10:43 PM] Background analysis(2) started
+[Info  - 4:10:43 PM] No configuration file found.
+[Info  - 4:10:43 PM] No pyproject.toml file found.
+[Info  - 4:10:43 PM] Setting pythonPath for service "Python": "/bin/python3"
+[Warn  - 4:10:43 PM] stubPath /home/omar/Desktop/Python/typings is not a valid directory.
+[Info  - 4:10:44 PM] Assuming Python version 3.9
+[Info  - 4:10:44 PM] Assuming Python platform Linux
+[Warn  - 4:10:44 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:10:44 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:10:44 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:10:44 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 4:10:44 PM] Searching for source files
+[Info  - 4:10:44 PM] Found 1 source file

@@ -1,0 +1,4 @@
+[Report]
+Uri=file:///home/omar/Downloads/JetBrainsMono.zip
+Message=Subject `file:///home/omar/Downloads/JetBrainsMono.zip' is not in domain `nie:DataObject' of property `nie:interpretedAs'
+Sparql=INSERT DATA {  GRAPH tracker:FileSystem {    <file:///home/omar/Downloads/JetBrainsMono.zip> tracker:extractorHash "(null)" .  }}; INSERT DATA {\n<file:///home/omar/Downloads/JetBrainsMono.zip> nie:interpretedAs _:1 .\n_:1 nie:mimeType "application/zip" ; \n  nie:isStoredAs <file:///home/omar/Downloads/JetBrainsMono.zip> .\n};\n

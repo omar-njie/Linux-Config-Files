@@ -1,0 +1,31 @@
+Info 2021-11-04 16:10:24: Experimentation service retrieved: [object Object]
+Info 2021-11-04 16:10:25: ZMQ install verified.
+Error 2021-11-04 16:10:26: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): EntryNotFound (FileSystemError): Unable to read file '/home/omar/Desktop/Python/.vscode/settings.json' (Error: Unable to resolve nonexistent file '/home/omar/Desktop/Python/.vscode/settings.json')
+    at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:164282)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at m.readFile (/home/omar/.vscode/extensions/ms-toolsai.jupyter-2021.10.1001414422/out/client/extension.js:102:789544)
+    at g.fixSettingsFile (/home/omar/.vscode/extensions/ms-toolsai.jupyter-2021.10.1001414422/out/client/extension.js:66:322174)
+    at async Promise.all (index 1)
+    at g.updateSettings (/home/omar/.vscode/extensions/ms-toolsai.jupyter-2021.10.1001414422/out/client/extension.js:66:323924) {
+  code: 'FileNotFound'
+}
+Info 2021-11-04 16:10:27: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 2021-11-04 16:10:28: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-11-04 16:10:28: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-11-04 16:10:28: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-11-04 16:10:28: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-11-04 16:10:28: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-11-04 16:10:28: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-11-04 16:12:24: Shutting down notebooks for d6293219-8743-43a5-bb00-8b2dbdaf1e59
+Info 2021-11-04 16:12:24: Disposing HostJupyterExecution d796d2a0-2c96-46ab-8610-6817a15a2227
+Info 2021-11-04 16:12:24: Disposing super HostJupyterExecution d796d2a0-2c96-46ab-8610-6817a15a2227
+Info 2021-11-04 16:12:24: Disposing HostJupyterExecution d796d2a0-2c96-46ab-8610-6817a15a2227
+Info 2021-11-04 16:12:24: Finished disposing HostJupyterExecution  d796d2a0-2c96-46ab-8610-6817a15a2227
+Info 2021-11-04 16:12:24: Cleaning up server cache d796d2a0-2c96-46ab-8610-6817a15a2227
+Info 2021-11-04 16:12:24: Finished disposing HostJupyterExecution  d796d2a0-2c96-46ab-8610-6817a15a2227

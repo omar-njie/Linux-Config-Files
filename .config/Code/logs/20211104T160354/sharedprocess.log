@@ -1,0 +1,347 @@
+[2021-11-04 16:04:31.126] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-11-04 16:04:31.126] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+[2021-11-04 16:04:31.246] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2021-11-04 16:04:31.249] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+[2021-11-04 16:04:31.360] [sharedprocess] [info] Installing extension: vscjava.vscode-java-pack
+[2021-11-04 16:04:31.362] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+[2021-11-04 16:04:31.362] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-11-04 16:04:31.362] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+[2021-11-04 16:04:31.363] [sharedprocess] [info] Installing extension: kiteco.kite
+[2021-11-04 16:04:31.363] [sharedprocess] [info] Installing the extension without checking dependencies and pack kiteco.kite
+[2021-11-04 16:04:31.363] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-11-04 16:04:31.363] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+[2021-11-04 16:04:31.371] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2021-11-04 16:04:31.376] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+[2021-11-04 16:04:31.382] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2021-11-04 16:04:31.383] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+[2021-11-04 16:04:31.389] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-11-04 16:04:31.395] [sharedprocess] [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+[2021-11-04 16:04:31.396] [sharedprocess] [info] Installing extension: 2gua.rainbow-brackets
+[2021-11-04 16:04:31.400] [sharedprocess] [info] Installing the extension without checking dependencies and pack 2gua.rainbow-brackets
+[2021-11-04 16:04:31.413] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2021-11-04 16:04:31.418] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+[2021-11-04 16:04:31.425] [sharedprocess] [info] Installing extension: github.copilot
+[2021-11-04 16:04:31.426] [sharedprocess] [info] Installing the extension without checking dependencies and pack github.copilot
+[2021-11-04 16:04:31.498] [sharedprocess] [info] Installing extension: teabyii.ayu
+[2021-11-04 16:04:31.498] [sharedprocess] [info] Installing the extension without checking dependencies and pack teabyii.ayu
+[2021-11-04 16:04:31.605] [sharedprocess] [info] Installing extension: hars.cppsnippets
+[2021-11-04 16:04:31.605] [sharedprocess] [info] Installing the extension without checking dependencies and pack hars.cppsnippets
+[2021-11-04 16:04:31.608] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2021-11-04 16:04:31.608] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+[2021-11-04 16:04:31.610] [sharedprocess] [info] Installing extension: zaaack.markdown-editor
+[2021-11-04 16:04:31.622] [sharedprocess] [info] Installing the extension without checking dependencies and pack zaaack.markdown-editor
+[2021-11-04 16:04:31.624] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2021-11-04 16:04:31.625] [sharedprocess] [info] Installing the extension without checking dependencies and pack eg2.vscode-npm-script
+[2021-11-04 16:04:31.632] [sharedprocess] [info] Installing extension: monokai.theme-monokai-pro-vscode
+[2021-11-04 16:04:31.634] [sharedprocess] [info] Installing the extension without checking dependencies and pack monokai.theme-monokai-pro-vscode
+[2021-11-04 16:04:31.636] [sharedprocess] [info] Installing extension: shan.code-settings-sync
+[2021-11-04 16:04:31.639] [sharedprocess] [info] Installing the extension without checking dependencies and pack shan.code-settings-sync
+[2021-11-04 16:04:31.643] [sharedprocess] [info] Installing extension: sonarsource.sonarlint-vscode
+[2021-11-04 16:04:31.646] [sharedprocess] [info] Installing the extension without checking dependencies and pack sonarsource.sonarlint-vscode
+[2021-11-04 16:04:31.651] [sharedprocess] [info] Installing extension: zainchen.json
+[2021-11-04 16:04:31.655] [sharedprocess] [info] Installing the extension without checking dependencies and pack zainchen.json
+[2021-11-04 16:04:31.659] [sharedprocess] [info] Installing extension: redhat.java
+[2021-11-04 16:04:31.660] [sharedprocess] [info] Installing the extension without checking dependencies and pack redhat.java
+[2021-11-04 16:04:31.691] [sharedprocess] [info] Installing extension: austin.code-gnu-global
+[2021-11-04 16:04:31.709] [sharedprocess] [info] Installing the extension without checking dependencies and pack austin.code-gnu-global
+[2021-11-04 16:04:31.710] [sharedprocess] [info] Installing extension: hookyqr.beautify
+[2021-11-04 16:04:31.711] [sharedprocess] [info] Installing the extension without checking dependencies and pack hookyqr.beautify
+[2021-11-04 16:04:31.712] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-11-04 16:04:31.713] [sharedprocess] [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+[2021-11-04 16:04:31.713] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2021-11-04 16:04:31.714] [sharedprocess] [info] Installing the extension without checking dependencies and pack xabikos.javascriptsnippets
+[2021-11-04 16:04:31.715] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2021-11-04 16:04:31.715] [sharedprocess] [info] Installing the extension without checking dependencies and pack dart-code.flutter
+[2021-11-04 16:04:31.724] [sharedprocess] [info] Installing extension: grapecity.gc-excelviewer
+[2021-11-04 16:04:31.725] [sharedprocess] [info] Installing the extension without checking dependencies and pack grapecity.gc-excelviewer
+[2021-11-04 16:04:31.726] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2021-11-04 16:04:31.727] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+[2021-11-04 16:04:31.733] [sharedprocess] [info] Installing extension: extr0py.vscode-relative-line-numbers
+[2021-11-04 16:04:31.734] [sharedprocess] [info] Installing the extension without checking dependencies and pack extr0py.vscode-relative-line-numbers
+[2021-11-04 16:04:31.735] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2021-11-04 16:04:31.736] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh-edit
+[2021-11-04 16:04:31.827] [sharedprocess] [info] Installing extension: golang.go
+[2021-11-04 16:04:31.830] [sharedprocess] [info] Installing the extension without checking dependencies and pack golang.go
+[2021-11-04 16:04:31.833] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2021-11-04 16:04:31.834] [sharedprocess] [info] Installing the extension without checking dependencies and pack dart-code.dart-code
+[2021-11-04 16:04:31.838] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-11-04 16:04:31.844] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+[2021-11-04 16:04:32.016] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-11-04 16:04:32.017] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-python.python
+[2021-11-04 16:04:32.017] [sharedprocess] [info] Installing extension: christian-kohler.npm-intellisense
+[2021-11-04 16:04:32.019] [sharedprocess] [info] Installing the extension without checking dependencies and pack christian-kohler.npm-intellisense
+[2021-11-04 16:04:32.172] [sharedprocess] [info] Installing extension: yedhrab.darkcode-theme-adopted-python-and-markdown
+[2021-11-04 16:04:32.172] [sharedprocess] [info] Installing the extension without checking dependencies and pack yedhrab.darkcode-theme-adopted-python-and-markdown
+[2021-11-04 16:04:32.174] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-11-04 16:04:32.175] [sharedprocess] [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+[2021-11-04 16:04:32.270] [sharedprocess] [info] Installing extension: k--kato.intellij-idea-keybindings
+[2021-11-04 16:04:32.271] [sharedprocess] [info] Installing the extension without checking dependencies and pack k--kato.intellij-idea-keybindings
+[2021-11-04 16:04:32.374] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-11-04 16:04:32.376] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+[2021-11-04 16:04:32.381] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2021-11-04 16:04:32.382] [sharedprocess] [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+[2021-11-04 16:04:32.384] [sharedprocess] [info] Installing extension: fabiospampinato.vscode-monokai-night
+[2021-11-04 16:04:32.390] [sharedprocess] [info] Installing the extension without checking dependencies and pack fabiospampinato.vscode-monokai-night
+[2021-11-04 16:04:32.524] [sharedprocess] [info] Installing extension: eriklynd.json-tools
+[2021-11-04 16:04:32.525] [sharedprocess] [info] Installing the extension without checking dependencies and pack eriklynd.json-tools
+[2021-11-04 16:04:32.531] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2021-11-04 16:04:32.549] [sharedprocess] [info] Installing the extension without checking dependencies and pack jeff-hykin.better-cpp-syntax
+[2021-11-04 16:04:32.559] [sharedprocess] [info] Installing extension: mohsen1.prettify-json
+[2021-11-04 16:04:32.559] [sharedprocess] [info] Installing the extension without checking dependencies and pack mohsen1.prettify-json
+[2021-11-04 16:04:32.960] [sharedprocess] [info] Installing extension: mechatroner.rainbow-csv
+[2021-11-04 16:04:32.960] [sharedprocess] [info] Installing the extension without checking dependencies and pack mechatroner.rainbow-csv
+[2021-11-04 16:04:32.962] [sharedprocess] [info] Installing extension: vintharas.learn-vim
+[2021-11-04 16:04:32.963] [sharedprocess] [info] Installing the extension without checking dependencies and pack vintharas.learn-vim
+[2021-11-04 16:04:32.966] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-11-04 16:04:32.967] [sharedprocess] [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+[2021-11-04 16:04:32.971] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
+[2021-11-04 16:04:32.971] [sharedprocess] [info] Installing the extension without checking dependencies and pack yzhang.markdown-all-in-one
+[2021-11-04 16:04:38.572] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /home/omar/.config/Code/CachedExtensionVSIXs/vscjava.vscode-java-test-0.32.0
+[2021-11-04 16:04:38.988] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.72f2f3d1-6d1d-4799-9297-00170383ec11: vscjava.vscode-java-test
+[2021-11-04 16:04:39.018] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/vscjava.vscode-java-test-0.32.0
+[2021-11-04 16:04:39.023] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-test
+[2021-11-04 16:04:39.023] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-test
+[2021-11-04 16:04:39.608] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/omar/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.10.1001414422
+[2021-11-04 16:04:39.753] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /home/omar/.config/Code/CachedExtensionVSIXs/xabikos.javascriptsnippets-1.8.0
+[2021-11-04 16:04:39.891] [sharedprocess] [info] Downloaded extension: austin.code-gnu-global /home/omar/.config/Code/CachedExtensionVSIXs/austin.code-gnu-global-0.2.2
+[2021-11-04 16:04:39.934] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency /home/omar/.config/Code/CachedExtensionVSIXs/vscjava.vscode-java-dependency-0.18.8
+[2021-11-04 16:04:39.950] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.8cc43e37-6449-4195-9c17-f532586988a9: xabikos.javascriptsnippets
+[2021-11-04 16:04:39.989] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+[2021-11-04 16:04:40.003] [sharedprocess] [info] Extracting completed. xabikos.javascriptsnippets
+[2021-11-04 16:04:40.004] [sharedprocess] [info] Extension installed successfully: xabikos.javascriptsnippets
+[2021-11-04 16:04:40.436] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.1bf16386-9cd6-446e-98ec-7d1bb243c60f: vscjava.vscode-java-dependency
+[2021-11-04 16:04:40.452] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/vscjava.vscode-java-dependency-0.18.8
+[2021-11-04 16:04:40.462] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-dependency
+[2021-11-04 16:04:40.464] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-dependency
+[2021-11-04 16:04:40.543] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.f8a7a31a-7433-46e2-84d4-67a8750b1061: austin.code-gnu-global
+[2021-11-04 16:04:40.561] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/austin.code-gnu-global-0.2.2
+[2021-11-04 16:04:40.565] [sharedprocess] [info] Extracting completed. austin.code-gnu-global
+[2021-11-04 16:04:40.565] [sharedprocess] [info] Extension installed successfully: austin.code-gnu-global
+[2021-11-04 16:04:40.642] [sharedprocess] [info] Downloaded extension: vintharas.learn-vim /home/omar/.config/Code/CachedExtensionVSIXs/vintharas.learn-vim-0.0.27
+[2021-11-04 16:04:40.699] [sharedprocess] [info] Downloaded extension: mechatroner.rainbow-csv /home/omar/.config/Code/CachedExtensionVSIXs/mechatroner.rainbow-csv-1.9.1
+[2021-11-04 16:04:40.798] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /home/omar/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-edit-0.66.0
+[2021-11-04 16:04:40.930] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/omar/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-11-04 16:04:41.018] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.e4409791-d62e-4547-bb4e-447820ab7f60: ms-vscode-remote.remote-ssh-edit
+[2021-11-04 16:04:41.044] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/omar/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.10
+[2021-11-04 16:04:41.046] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.66.0
+[2021-11-04 16:04:41.061] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh-edit
+[2021-11-04 16:04:41.063] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+[2021-11-04 16:04:41.064] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.61f6c5bb-a9f0-4703-93c7-1e1e60eba1de: ms-toolsai.jupyter-keymap
+[2021-11-04 16:04:41.094] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-11-04 16:04:41.113] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-11-04 16:04:41.114] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-11-04 16:04:41.220] [sharedprocess] [info] Downloaded extension: fabiospampinato.vscode-monokai-night /home/omar/.config/Code/CachedExtensionVSIXs/fabiospampinato.vscode-monokai-night-1.6.0
+[2021-11-04 16:04:41.370] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/omar/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.6
+[2021-11-04 16:04:41.628] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.c3015709-0ac3-4d59-a611-83832c126bf4: jeff-hykin.better-cpp-syntax
+[2021-11-04 16:04:41.641] [sharedprocess] [info] Downloaded extension: mohsen1.prettify-json /home/omar/.config/Code/CachedExtensionVSIXs/mohsen1.prettify-json-0.0.3
+[2021-11-04 16:04:41.652] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.0d710729-4e68-493d-9a00-6269dd4e5760: mechatroner.rainbow-csv
+[2021-11-04 16:04:41.658] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.10
+[2021-11-04 16:04:41.672] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2021-11-04 16:04:41.685] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2021-11-04 16:04:41.689] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/mechatroner.rainbow-csv-1.9.1
+[2021-11-04 16:04:41.710] [sharedprocess] [info] Extracting completed. mechatroner.rainbow-csv
+[2021-11-04 16:04:41.710] [sharedprocess] [info] Extension installed successfully: mechatroner.rainbow-csv
+[2021-11-04 16:04:41.813] [sharedprocess] [info] Downloaded extension: christian-kohler.npm-intellisense /home/omar/.config/Code/CachedExtensionVSIXs/christian-kohler.npm-intellisense-1.4.0
+[2021-11-04 16:04:41.901] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.7ff77c8d-8613-40cf-bd3d-c40a083b5f5d: fabiospampinato.vscode-monokai-night
+[2021-11-04 16:04:41.932] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/fabiospampinato.vscode-monokai-night-1.6.0
+[2021-11-04 16:04:41.953] [sharedprocess] [info] Extracting completed. fabiospampinato.vscode-monokai-night
+[2021-11-04 16:04:41.954] [sharedprocess] [info] Extension installed successfully: fabiospampinato.vscode-monokai-night
+[2021-11-04 16:04:42.275] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.a472f335-9d28-4851-aa58-42e30f36bd5c: vintharas.learn-vim
+[2021-11-04 16:04:42.324] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/vintharas.learn-vim-0.0.27
+[2021-11-04 16:04:42.325] [sharedprocess] [info] Extracting completed. vintharas.learn-vim
+[2021-11-04 16:04:42.326] [sharedprocess] [info] Extension installed successfully: vintharas.learn-vim
+[2021-11-04 16:04:42.595] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.8b558cf1-7103-4af2-9d6d-1fbd458c0065: christian-kohler.npm-intellisense
+[2021-11-04 16:04:42.631] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/christian-kohler.npm-intellisense-1.4.0
+[2021-11-04 16:04:42.673] [sharedprocess] [info] Extracting completed. christian-kohler.npm-intellisense
+[2021-11-04 16:04:42.675] [sharedprocess] [info] Extension installed successfully: christian-kohler.npm-intellisense
+[2021-11-04 16:04:43.463] [sharedprocess] [info] Downloaded extension: hookyqr.beautify /home/omar/.config/Code/CachedExtensionVSIXs/hookyqr.beautify-1.5.0
+[2021-11-04 16:04:44.224] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/omar/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-11-04 16:04:44.226] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one /home/omar/.config/Code/CachedExtensionVSIXs/yzhang.markdown-all-in-one-3.4.0
+[2021-11-04 16:04:44.830] [sharedprocess] [info] Downloaded extension: eriklynd.json-tools /home/omar/.config/Code/CachedExtensionVSIXs/eriklynd.json-tools-1.0.2
+[2021-11-04 16:04:44.837] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /home/omar/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.66.0
+[2021-11-04 16:04:45.258] [sharedprocess] [info] Downloaded extension: teabyii.ayu /home/omar/.config/Code/CachedExtensionVSIXs/teabyii.ayu-1.0.5
+[2021-11-04 16:04:45.584] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/omar/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.7.1
+[2021-11-04 16:04:45.754] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.5f9c6140-95bb-4476-8d90-c68747e0e661: formulahendry.code-runner
+[2021-11-04 16:04:45.910] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/formulahendry.code-runner-0.11.6
+[2021-11-04 16:04:45.911] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2021-11-04 16:04:45.911] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner
+[2021-11-04 16:04:45.955] [sharedprocess] [info] Downloaded extension: extr0py.vscode-relative-line-numbers /home/omar/.config/Code/CachedExtensionVSIXs/extr0py.vscode-relative-line-numbers-0.0.5
+[2021-11-04 16:04:46.081] [sharedprocess] [info] Downloaded extension: 2gua.rainbow-brackets /home/omar/.config/Code/CachedExtensionVSIXs/2gua.rainbow-brackets-0.0.6
+[2021-11-04 16:04:46.401] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/omar/.config/Code/CachedExtensionVSIXs/dart-code.flutter-3.28.0
+[2021-11-04 16:04:46.407] [sharedprocess] [info] Downloaded extension: k--kato.intellij-idea-keybindings /home/omar/.config/Code/CachedExtensionVSIXs/k--kato.intellij-idea-keybindings-1.5.0
+[2021-11-04 16:04:46.539] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script /home/omar/.config/Code/CachedExtensionVSIXs/eg2.vscode-npm-script-0.3.23
+[2021-11-04 16:04:46.611] [sharedprocess] [info] Downloaded extension: yedhrab.darkcode-theme-adopted-python-and-markdown /home/omar/.config/Code/CachedExtensionVSIXs/yedhrab.darkcode-theme-adopted-python-and-markdown-4.3.2
+[2021-11-04 16:04:46.659] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /home/omar/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.58.5
+[2021-11-04 16:04:46.932] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.9c2b922d-efcf-44d5-9b1d-86eab06629eb: 2gua.rainbow-brackets
+[2021-11-04 16:04:47.024] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/2gua.rainbow-brackets-0.0.6
+[2021-11-04 16:04:47.063] [sharedprocess] [info] Extracting completed. 2gua.rainbow-brackets
+[2021-11-04 16:04:47.063] [sharedprocess] [info] Extension installed successfully: 2gua.rainbow-brackets
+[2021-11-04 16:04:47.240] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.8770f5e4-d842-4187-b167-5a9eaabed763: dart-code.flutter
+[2021-11-04 16:04:47.323] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/dart-code.flutter-3.28.0
+[2021-11-04 16:04:47.356] [sharedprocess] [info] Extracting completed. dart-code.flutter
+[2021-11-04 16:04:47.362] [sharedprocess] [info] Extension installed successfully: dart-code.flutter
+[2021-11-04 16:04:47.446] [sharedprocess] [info] Downloaded extension: hars.cppsnippets /home/omar/.config/Code/CachedExtensionVSIXs/hars.cppsnippets-0.0.15
+[2021-11-04 16:04:47.481] [sharedprocess] [info] Downloaded extension: monokai.theme-monokai-pro-vscode /home/omar/.config/Code/CachedExtensionVSIXs/monokai.theme-monokai-pro-vscode-1.1.19
+[2021-11-04 16:04:47.534] [sharedprocess] [info] Downloaded extension: zainchen.json /home/omar/.config/Code/CachedExtensionVSIXs/zainchen.json-2.0.2
+[2021-11-04 16:04:48.150] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.00811e51-3ebd-4b53-b9af-e5aa527b1db2: hars.cppsnippets
+[2021-11-04 16:04:48.330] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/hars.cppsnippets-0.0.15
+[2021-11-04 16:04:48.332] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/omar/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.0.0
+[2021-11-04 16:04:48.333] [sharedprocess] [info] Downloaded extension: kiteco.kite /home/omar/.config/Code/CachedExtensionVSIXs/kiteco.kite-0.147.0
+[2021-11-04 16:04:48.377] [sharedprocess] [info] Extracting completed. hars.cppsnippets
+[2021-11-04 16:04:48.379] [sharedprocess] [info] Extension installed successfully: hars.cppsnippets
+[2021-11-04 16:04:48.456] [sharedprocess] [info] Downloaded extension: golang.go /home/omar/.config/Code/CachedExtensionVSIXs/golang.go-0.29.0
+[2021-11-04 16:04:48.482] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/omar/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.10.0
+[2021-11-04 16:04:48.901] [sharedprocess] [info] Downloaded extension: shan.code-settings-sync /home/omar/.config/Code/CachedExtensionVSIXs/shan.code-settings-sync-3.4.3
+[2021-11-04 16:04:49.336] [sharedprocess] [info] Downloaded extension: zaaack.markdown-editor /home/omar/.config/Code/CachedExtensionVSIXs/zaaack.markdown-editor-0.1.10
+[2021-11-04 16:04:49.625] [sharedprocess] [info] Downloaded extension: github.copilot /home/omar/.config/Code/CachedExtensionVSIXs/github.copilot-1.7.3689
+[2021-11-04 16:04:49.655] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.01816597-be5b-4054-b143-269eb6918b9c: ms-vscode-remote.remote-wsl
+[2021-11-04 16:04:49.831] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-vscode-remote.remote-wsl-0.58.5
+[2021-11-04 16:04:49.868] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.71abf99a-1e21-4203-a389-04a48fd24de3: ms-vscode-remote.remote-ssh
+[2021-11-04 16:04:49.907] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2021-11-04 16:04:49.908] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2021-11-04 16:04:50.043] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-vscode-remote.remote-ssh-0.66.0
+[2021-11-04 16:04:50.080] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh
+[2021-11-04 16:04:50.083] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+[2021-11-04 16:04:50.135] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.ff185f40-fce2-4243-ac12-9d9cfb7f105f: monokai.theme-monokai-pro-vscode
+[2021-11-04 16:04:50.237] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.19
+[2021-11-04 16:04:50.274] [sharedprocess] [info] Extracting completed. monokai.theme-monokai-pro-vscode
+[2021-11-04 16:04:50.277] [sharedprocess] [info] Extension installed successfully: monokai.theme-monokai-pro-vscode
+[2021-11-04 16:04:50.286] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.6b0de867-c3c8-43fe-b4ec-8539e12bfb32: eg2.vscode-npm-script
+[2021-11-04 16:04:50.446] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/eg2.vscode-npm-script-0.3.23
+[2021-11-04 16:04:50.489] [sharedprocess] [info] Extracting completed. eg2.vscode-npm-script
+[2021-11-04 16:04:50.490] [sharedprocess] [info] Extension installed successfully: eg2.vscode-npm-script
+[2021-11-04 16:04:51.028] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.e358d85f-b937-4f9e-b5e2-ae4c622fe76b: zainchen.json
+[2021-11-04 16:04:51.188] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/zainchen.json-2.0.2
+[2021-11-04 16:04:51.253] [sharedprocess] [info] Extracting completed. zainchen.json
+[2021-11-04 16:04:51.257] [sharedprocess] [info] Extension installed successfully: zainchen.json
+[2021-11-04 16:04:52.700] [sharedprocess] [info] Downloaded extension: ms-python.python /home/omar/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.11.1422169775
+[2021-11-04 16:04:52.742] [sharedprocess] [info] Downloaded extension: grapecity.gc-excelviewer /home/omar/.config/Code/CachedExtensionVSIXs/grapecity.gc-excelviewer-3.0.44
+[2021-11-04 16:04:53.030] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug /home/omar/.config/Code/CachedExtensionVSIXs/vscjava.vscode-java-debug-0.36.0
+[2021-11-04 16:04:53.032] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-pack /home/omar/.config/Code/CachedExtensionVSIXs/vscjava.vscode-java-pack-0.18.6
+[2021-11-04 16:04:53.962] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/omar/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.11.0
+[2021-11-04 16:04:54.526] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/omar/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.3
+[2021-11-04 16:04:54.529] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.da2ee35c-5cc4-4659-900c-78889ef38ad2: zaaack.markdown-editor
+[2021-11-04 16:04:54.641] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/zaaack.markdown-editor-0.1.10
+[2021-11-04 16:04:54.647] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.78b0327c-a994-48dd-9245-47c5ff210af7: kiteco.kite
+[2021-11-04 16:04:54.691] [sharedprocess] [info] Extracting completed. zaaack.markdown-editor
+[2021-11-04 16:04:54.700] [sharedprocess] [info] Extension installed successfully: zaaack.markdown-editor
+[2021-11-04 16:04:54.770] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/kiteco.kite-0.147.0
+[2021-11-04 16:04:54.825] [sharedprocess] [info] Extracting completed. kiteco.kite
+[2021-11-04 16:04:54.831] [sharedprocess] [info] Extension installed successfully: kiteco.kite
+[2021-11-04 16:04:55.450] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.f16fd756-14dc-4cf1-924c-f40913862700: golang.go
+[2021-11-04 16:04:55.600] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/golang.go-0.29.0
+[2021-11-04 16:04:55.699] [sharedprocess] [info] Extracting completed. golang.go
+[2021-11-04 16:04:55.703] [sharedprocess] [info] Extension installed successfully: golang.go
+[2021-11-04 16:04:56.663] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.4668fa2d-2ddf-458b-8b52-ea343f64eed7: extr0py.vscode-relative-line-numbers
+[2021-11-04 16:04:56.809] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/extr0py.vscode-relative-line-numbers-0.0.5
+[2021-11-04 16:04:57.016] [sharedprocess] [info] Extracting completed. extr0py.vscode-relative-line-numbers
+[2021-11-04 16:04:57.034] [sharedprocess] [info] Extension installed successfully: extr0py.vscode-relative-line-numbers
+[2021-11-04 16:04:57.404] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.6d1208d8-6d2a-4ecf-a4ad-377533a7c103: shan.code-settings-sync
+[2021-11-04 16:04:57.596] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/omar/.config/Code/CachedExtensionVSIXs/dart-code.dart-code-3.28.0
+[2021-11-04 16:04:57.601] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/shan.code-settings-sync-3.4.3
+[2021-11-04 16:04:57.637] [sharedprocess] [info] Extracting completed. shan.code-settings-sync
+[2021-11-04 16:04:57.641] [sharedprocess] [info] Extension installed successfully: shan.code-settings-sync
+[2021-11-04 16:04:57.784] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.c9fa0b85-0cff-41be-abb0-95b4c659cc76: github.copilot
+[2021-11-04 16:04:57.887] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/github.copilot-1.7.3689
+[2021-11-04 16:04:57.916] [sharedprocess] [info] Extracting completed. github.copilot
+[2021-11-04 16:04:57.916] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2021-11-04 16:04:58.377] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /home/omar/.config/Code/CachedExtensionVSIXs/vscjava.vscode-maven-0.34.1
+[2021-11-04 16:04:58.667] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.1fdef985-6803-47e4-b634-d4226d2d4306: vscjava.vscode-java-debug
+[2021-11-04 16:04:58.805] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/vscjava.vscode-java-debug-0.36.0
+[2021-11-04 16:04:58.851] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-debug
+[2021-11-04 16:04:58.857] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-debug
+[2021-11-04 16:04:59.758] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/omar/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.14
+[2021-11-04 16:05:00.348] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.0b410f01-fbda-4a93-89a8-f603b732909e: teabyii.ayu
+[2021-11-04 16:05:00.417] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/teabyii.ayu-1.0.5
+[2021-11-04 16:05:00.442] [sharedprocess] [info] Extracting completed. teabyii.ayu
+[2021-11-04 16:05:00.443] [sharedprocess] [info] Extension installed successfully: teabyii.ayu
+[2021-11-04 16:05:00.618] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.9225bcd5-a0bf-4a6b-a025-a6b7dec7954e: hookyqr.beautify
+[2021-11-04 16:05:00.836] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/hookyqr.beautify-1.5.0
+[2021-11-04 16:05:00.917] [sharedprocess] [info] Extracting completed. hookyqr.beautify
+[2021-11-04 16:05:00.920] [sharedprocess] [info] Extension installed successfully: hookyqr.beautify
+[2021-11-04 16:05:00.977] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.a7ffcba9-6728-4335-89ab-b1df0377ff5c: yedhrab.darkcode-theme-adopted-python-and-markdown
+[2021-11-04 16:05:00.993] [sharedprocess] [info] Detected extension removed from another source hookyqr.beautify
+[2021-11-04 16:05:01.092] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/yedhrab.darkcode-theme-adopted-python-and-markdown-4.3.2
+[2021-11-04 16:05:01.132] [sharedprocess] [info] Extracting completed. yedhrab.darkcode-theme-adopted-python-and-markdown
+[2021-11-04 16:05:01.136] [sharedprocess] [info] Extension installed successfully: yedhrab.darkcode-theme-adopted-python-and-markdown
+[2021-11-04 16:05:01.644] [sharedprocess] [info] Detected extension installed from another source hookyqr.beautify
+[2021-11-04 16:05:02.243] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.ebcb2115-a8a5-4379-8553-9df8bad19f02: vscjava.vscode-java-pack
+[2021-11-04 16:05:02.336] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.58335b27-ea1d-4dcc-b517-1564f500e089: grapecity.gc-excelviewer
+[2021-11-04 16:05:02.374] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/vscjava.vscode-java-pack-0.18.6
+[2021-11-04 16:05:02.415] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-pack
+[2021-11-04 16:05:02.417] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-pack
+[2021-11-04 16:05:02.483] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/grapecity.gc-excelviewer-3.0.44
+[2021-11-04 16:05:02.553] [sharedprocess] [info] Extracting completed. grapecity.gc-excelviewer
+[2021-11-04 16:05:02.554] [sharedprocess] [info] Extension installed successfully: grapecity.gc-excelviewer
+[2021-11-04 16:05:04.690] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.2427794b-49d6-4605-b8b7-caca07273dfa: eriklynd.json-tools
+[2021-11-04 16:05:04.746] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/eriklynd.json-tools-1.0.2
+[2021-11-04 16:05:04.782] [sharedprocess] [info] Extracting completed. eriklynd.json-tools
+[2021-11-04 16:05:04.787] [sharedprocess] [info] Extension installed successfully: eriklynd.json-tools
+[2021-11-04 16:05:05.949] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.da331722-0ce0-4942-9f84-7d4f9e5395c3: ms-toolsai.jupyter
+[2021-11-04 16:05:05.997] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-toolsai.jupyter-2021.10.1001414422
+[2021-11-04 16:05:06.014] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-11-04 16:05:06.017] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-11-04 16:05:06.282] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.b777eea7-2b64-4c42-8163-ee21385902d7: ms-toolsai.jupyter-renderers
+[2021-11-04 16:05:06.397] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.3
+[2021-11-04 16:05:06.510] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-11-04 16:05:06.511] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-11-04 16:05:06.611] [sharedprocess] [info] Detected extension removed from another source ms-toolsai.jupyter-renderers
+[2021-11-04 16:05:07.054] [sharedprocess] [info] Detected extension installed from another source ms-toolsai.jupyter-renderers
+[2021-11-04 16:05:07.082] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.62a4b8f9-f0ba-43dc-be67-7eaa123e9206: mohsen1.prettify-json
+[2021-11-04 16:05:07.176] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/mohsen1.prettify-json-0.0.3
+[2021-11-04 16:05:07.217] [sharedprocess] [info] Extracting completed. mohsen1.prettify-json
+[2021-11-04 16:05:07.236] [sharedprocess] [info] Extension installed successfully: mohsen1.prettify-json
+[2021-11-04 16:05:09.921] [sharedprocess] [info] Downloaded extension: redhat.java /home/omar/.config/Code/CachedExtensionVSIXs/redhat.java-1.0.0
+[2021-11-04 16:05:11.418] [sharedprocess] [info] Downloaded extension: sonarsource.sonarlint-vscode /home/omar/.config/Code/CachedExtensionVSIXs/sonarsource.sonarlint-vscode-3.1.0
+[2021-11-04 16:05:12.468] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.acef4670-ece4-49d8-b2fc-55a70c4c1462: ms-vscode.cpptools
+[2021-11-04 16:05:12.561] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-vscode.cpptools-1.7.1
+[2021-11-04 16:05:12.656] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2021-11-04 16:05:12.679] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2021-11-04 16:05:12.713] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.b631bdbc-68c1-451d-8dbf-9503958b8d52: vscjava.vscode-maven
+[2021-11-04 16:05:12.797] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/vscjava.vscode-maven-0.34.1
+[2021-11-04 16:05:12.845] [sharedprocess] [info] Extracting completed. vscjava.vscode-maven
+[2021-11-04 16:05:12.869] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-maven
+[2021-11-04 16:05:13.942] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.a8804e75-b02b-47c8-933b-4068e102bd8c: esbenp.prettier-vscode
+[2021-11-04 16:05:14.085] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/esbenp.prettier-vscode-9.0.0
+[2021-11-04 16:05:14.105] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-11-04 16:05:14.113] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-11-04 16:05:18.490] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.d2f34e0c-021f-43ea-80f1-676de7fb5808: visualstudioexptteam.vscodeintellicode
+[2021-11-04 16:05:18.528] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.14
+[2021-11-04 16:05:18.542] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2021-11-04 16:05:18.543] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2021-11-04 16:05:22.769] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.b2f418fd-6e14-4452-88b6-02df9f2bc0c3: yzhang.markdown-all-in-one
+[2021-11-04 16:05:22.936] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/yzhang.markdown-all-in-one-3.4.0
+[2021-11-04 16:05:22.977] [sharedprocess] [info] Extracting completed. yzhang.markdown-all-in-one
+[2021-11-04 16:05:22.983] [sharedprocess] [info] Extension installed successfully: yzhang.markdown-all-in-one
+[2021-11-04 16:05:26.222] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.33d5535f-99e2-4181-853e-0a0ef8d57b22: pkief.material-icon-theme
+[2021-11-04 16:05:26.253] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/pkief.material-icon-theme-4.10.0
+[2021-11-04 16:05:26.269] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2021-11-04 16:05:26.270] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2021-11-04 16:05:30.475] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.baeeb094-4db9-49ba-8df9-87f2864c27e5: redhat.java
+[2021-11-04 16:05:30.506] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/redhat.java-1.0.0
+[2021-11-04 16:05:30.515] [sharedprocess] [info] Extracting completed. redhat.java
+[2021-11-04 16:05:30.523] [sharedprocess] [info] Extension installed successfully: redhat.java
+[2021-11-04 16:05:33.579] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.e32b3e45-559f-4ca9-84dd-4c7e443facac: sonarsource.sonarlint-vscode
+[2021-11-04 16:05:33.606] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/sonarsource.sonarlint-vscode-3.1.0
+[2021-11-04 16:05:33.619] [sharedprocess] [info] Extracting completed. sonarsource.sonarlint-vscode
+[2021-11-04 16:05:33.621] [sharedprocess] [info] Extension installed successfully: sonarsource.sonarlint-vscode
+[2021-11-04 16:05:40.636] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.4a99fcde-e879-4aac-af10-84b2e480a6b8: ritwickdey.liveserver
+[2021-11-04 16:05:40.669] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2021-11-04 16:05:40.674] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2021-11-04 16:05:40.678] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2021-11-04 16:05:42.480] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.31efec5b-07a9-4e14-bca0-53367bf43ba6: k--kato.intellij-idea-keybindings
+[2021-11-04 16:05:42.522] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/k--kato.intellij-idea-keybindings-1.5.0
+[2021-11-04 16:05:42.538] [sharedprocess] [info] Extracting completed. k--kato.intellij-idea-keybindings
+[2021-11-04 16:05:42.541] [sharedprocess] [info] Extension installed successfully: k--kato.intellij-idea-keybindings
+[2021-11-04 16:05:47.218] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.b20814de-6941-4718-b624-0fb963a4a2cf: ms-python.python
+[2021-11-04 16:05:47.234] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775
+[2021-11-04 16:05:47.246] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-11-04 16:05:47.290] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-11-04 16:05:59.244] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.983d6949-7049-4a1e-b4c4-f9129c2ef15a: ms-python.vscode-pylance
+[2021-11-04 16:05:59.274] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/ms-python.vscode-pylance-2021.11.0
+[2021-11-04 16:05:59.286] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-11-04 16:05:59.289] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-11-04 16:06:31.816] [sharedprocess] [info] Extracted extension to /home/omar/.vscode/extensions/.dc0d76e0-ff34-4836-b637-ccc5d907e2b8: dart-code.dart-code
+[2021-11-04 16:06:31.844] [sharedprocess] [info] Renamed to /home/omar/.vscode/extensions/dart-code.dart-code-3.28.0
+[2021-11-04 16:06:31.851] [sharedprocess] [info] Extracting completed. dart-code.dart-code
+[2021-11-04 16:06:31.858] [sharedprocess] [info] Extension installed successfully: dart-code.dart-code

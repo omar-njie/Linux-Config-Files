@@ -1,0 +1,52 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Pylance",
+    "dart.flutterSdkPath": "C:\\flutter\\flutter",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.openDevTools": "flutter",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.inlineSuggest.enabled": true,
+    "telemetry.telemetryLevel": "off",
+    "code-runner.enableAppInsights": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "github.copilot.enable": {
+        "*": false,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "dart": false,
+        "jsonc": false
+    },
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "editor.fontSize": 15,
+    "window.newWindowDimensions": "inherit",
+    "editor.lineNumbers": "relative",
+    "workbench.iconTheme": "material-icon-theme",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorTheme": "🌑 DarkCode Contrast++",
+    "emmet.triggerExpansionOnTab": true,
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 2
+}

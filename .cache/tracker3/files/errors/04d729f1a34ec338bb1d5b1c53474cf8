@@ -1,0 +1,4 @@
+[Report]
+Uri=file:///home/omar/Desktop/Python/main.py
+Message=Subject `file:///home/omar/Desktop/Python/main.py' is not in domain `nie:DataObject' of property `nie:interpretedAs'
+Sparql=INSERT DATA {  GRAPH tracker:FileSystem {    <file:///home/omar/Desktop/Python/main.py> tracker:extractorHash "(null)" .  }}; INSERT DATA {\n<file:///home/omar/Desktop/Python/main.py> nie:interpretedAs _:16 .\n_:16 nie:mimeType "text/x-python" ; \n  nie:isStoredAs <file:///home/omar/Desktop/Python/main.py> .\n};\n

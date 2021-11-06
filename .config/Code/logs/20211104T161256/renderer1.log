@@ -1,0 +1,35 @@
+[2021-11-04 16:12:59.509] [renderer1] [info] Starting extension host with pid 13579.
+[2021-11-04 16:12:59.512] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 92 ms.
+[2021-11-04 16:13:01.177] [renderer1] [error] [Extension Host] (node:13579) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-04 16:13:04.016] [renderer1] [error] Error: Unable to read file '/home/omar/Desktop/Python2:146:124:113' (Error: Unable to resolve nonexistent file '/home/omar/Desktop/Python2:146:124:113')
+    at i.handleSetInputError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2342:143410)
+    at i.handleSetInputError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2342:147201)
+    at i.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2342:143104)
+    at async n.doSetInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2342:34632)
+    at async n.doOpenEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2342:33032)
+    at async n.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2342:32680)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2544:16967
+    at async Bi.openEditors (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2544:18541)
+    at async Promise.all (index 0)
+    at async Object.z [as settled] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:21754)
+    at async A.openEditors (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2379:25401)
+    at async A.handleDrop (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2389:32342)
+[2021-11-04 16:13:04.270] [renderer1] [error] Cannot read property 'options' of undefined: TypeError: Cannot read property 'options' of undefined
+    at ti.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2468:27266)
+    at ti.redraw (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2468:21709)
+    at ti.handleOpenedEditors (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2468:11395)
+    at ti.openEditors (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2468:11161)
+    at Bi.openEditors (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2544:18828)
+    at async Promise.all (index 0)
+    at async Object.z [as settled] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:21754)
+    at async A.openEditors (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2379:25401)
+    at async A.handleDrop (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2389:32342)
+[2021-11-04 16:13:24.956] [renderer1] [info] Starting extension host with pid 13676.
+[2021-11-04 16:13:24.961] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 92 ms.
+[2021-11-04 16:13:26.949] [renderer1] [error] [Extension Host] (node:13676) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-04 16:14:15.273] [renderer1] [error] Cannot read property 'length' of undefined: TypeError: Cannot read property 'length' of undefined
+    at /home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+    at h (/home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+    at B.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:181124)

@@ -1,0 +1,6 @@
+file:///home/omar/Desktop/Python/main.py {"mtime":1636067439436,"ctime":1636067307642,"size":20,"etag":"37oemo617k","orphaned":false,"typeId":""}
+def main():
+    for i in range(10):
+        print("Hello You!")
+
+main()        

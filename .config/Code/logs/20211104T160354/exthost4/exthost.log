@@ -1,0 +1,58 @@
+[2021-11-04 16:09:44.160] [exthost] [info] Extension host with pid 7022 started
+[2021-11-04 16:09:44.160] [exthost] [info] Skipping acquiring lock for /home/omar/.config/Code/User/workspaceStorage/674483d750b39ba0b02454bc535072cd.
+[2021-11-04 16:09:44.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-04 16:09:44.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-04 16:09:44.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-04 16:09:44.802] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-11-04 16:09:45.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-04 16:09:45.583] [exthost] [info] Eager extensions activated
+[2021-11-04 16:09:45.763] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:09:45.772] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:09:52.902] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:09:59.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-04 16:10:00.485] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: false, activationEvent: '*'
+[2021-11-04 16:10:00.498] [exthost] [info] ExtensionService#_doActivateExtension extr0py.vscode-relative-line-numbers, startup: false, activationEvent: '*'
+[2021-11-04 16:10:00.515] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:10:01.029] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: '*'
+[2021-11-04 16:10:02.484] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: false, activationEvent: '*'
+[2021-11-04 16:10:03.558] [exthost] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: '*'
+[2021-11-04 16:10:03.637] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: '*'
+[2021-11-04 16:10:14.170] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'workspaceContainsTimeout:*/pubspec.yaml,*/*/pubspec.yaml,*.dart,*/*.dart,*/*/*.dart'
+[2021-11-04 16:10:21.882] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-04 16:10:22.402] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-04 16:10:23.715] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-04 16:10:26.291] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-04 16:10:28.072] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+[2021-11-04 16:10:45.479] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-04 16:10:45.480] [exthost] [error] Canceled: Canceled
+    at S.makeCancelError (/home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+    at S.handleFailedRequest (/home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+    at /home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
+    at s.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2021-11-04 16:10:45.482] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-04 16:10:45.483] [exthost] [error] Canceled: Canceled
+    at S.makeCancelError (/home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+    at S.handleFailedRequest (/home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+    at /home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+    at T.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-04 16:10:45.499] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-04 16:10:45.499] [exthost] [error] Canceled: Canceled
+    at S.makeCancelError (/home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+    at S.handleFailedRequest (/home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+    at /home/omar/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+    at T.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-04 16:11:05.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-04 16:11:06.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-04 16:11:06.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-04 16:12:24.287] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-04 16:12:24.481] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at n._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+    at Proxy.x.<computed>.F.charCodeAt.x.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+    at u.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:39347)
+    at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:58426)
+    at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-11-04 16:12:25.368] [exthost] [info] Extension host with pid 7022 exiting with code 0

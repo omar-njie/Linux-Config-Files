@@ -1,0 +1,10 @@
+[Running] python -u "/home/omar/Desktop/Python/main.py"
+/bin/sh: 1: python: not found
+
+[Done] exited with code=127 in 0.016 seconds
+
+[Running] python -u "/home/omar/Desktop/Python/main.py"
+/bin/sh: 1: python: not found
+
+[Done] exited with code=127 in 0.012 seconds
+

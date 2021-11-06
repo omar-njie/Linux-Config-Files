@@ -1,0 +1,18 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=false
+Parent=3cbfa3d4f9dee4cae14efc273e85014450eead8f
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=omzinho8051113@gmail.com
+CredentialName=
+IsExternal=false
+
+[Address Book]
+BackendName=google
+Order=0

@@ -1,0 +1,6 @@
+[2021-11-04 16:59:51.869] [renderer1] [info] Starting extension host with pid 20906.
+[2021-11-04 16:59:51.875] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 142 ms.
+[2021-11-04 16:59:56.346] [renderer1] [error] [Extension Host] (node:20906) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-04 17:00:14.309] [renderer1] [info] Enabling inspect port on extension host with pid 20906.
+[2021-11-04 17:00:16.479] [renderer1] [warning] UNRESPONSIVE extension host, 'esbenp.prettier-vscode' took 65% of 645.194ms, saved PROFILE here: 'file:///tmp/exthost-4d05d4.cpuprofile' [{"id":"esbenp.prettier-vscode","total":418607,"percentage":65},{"id":"formulahendry.code-runner","total":111811,"percentage":17},{"id":"gc","total":354,"percentage":0},{"id":"GitHub.copilot","total":55790,"percentage":9},{"id":"ms-python.python","total":262,"percentage":0},{"id":"ms-python.vscode-pylance","total":813,"percentage":0},{"id":"ms-vscode-remote.remote-wsl","total":9380,"percentage":1},{"id":"self","total":47544,"percentage":7}]

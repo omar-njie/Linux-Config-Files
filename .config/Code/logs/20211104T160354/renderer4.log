@@ -1,0 +1,12 @@
+[2021-11-04 16:09:39.570] [renderer4] [info] Starting extension host with pid 7022.
+[2021-11-04 16:09:39.575] [renderer4] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 60 ms.
+[2021-11-04 16:09:42.716] [renderer4] [error] [Extension Host] (node:7022) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-04 16:09:43.409] [renderer4] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/omar/Desktop/Python
+[2021-11-04 16:09:55.443] [renderer4] [info] Enabling inspect port on extension host with pid 7022.
+[2021-11-04 16:10:18.401] [renderer4] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 91% of 5419.509ms, saved PROFILE here: 'file:///tmp/exthost-ab7007.cpuprofile' [{"id":"2gua.rainbow-brackets","total":29763,"percentage":1},{"id":"extr0py.vscode-relative-line-numbers","total":77740,"percentage":1},{"id":"formulahendry.code-runner","total":25889,"percentage":0},{"id":"gc","total":17686,"percentage":0},{"id":"GitHub.copilot","total":41760,"percentage":1},{"id":"HookyQR.beautify","total":1666,"percentage":0},{"id":"monokai.theme-monokai-pro-vscode","total":6509,"percentage":0},{"id":"program","total":10438,"percentage":0},{"id":"ritwickdey.LiveServer","total":4919077,"percentage":91},{"id":"self","total":166671,"percentage":3},{"id":"vscode.git","total":121647,"percentage":2}]
+[2021-11-04 16:10:23.733] [renderer4] [warning] {}
+[2021-11-04 16:11:59.638] [renderer4] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+[2021-11-04 16:12:00.100] [renderer4] [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
+[2021-11-04 16:12:10.921] [renderer4] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+[2021-11-04 16:12:15.641] [renderer4] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace

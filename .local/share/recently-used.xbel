@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/omar/Downloads/firefox.tmp/FiraCode.zip" added="2021-11-04T22:02:37.811470Z" modified="2021-11-04T22:02:37.811854Z" visited="2021-11-04T22:02:37.811471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-11-04T22:02:37.811848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Downloads/firefox.tmp/tmpaddon" added="2021-11-04T22:24:59.554602Z" modified="2021-11-04T22:24:59.905314Z" visited="2021-11-04T22:24:59.554605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2021-11-04T22:24:59.554609Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-11-04T22:24:59.905311Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Downloads/JetBrainsMono/JetBrains%20Mono%20Bold%20Italic%20Nerd%20Font%20Complete.ttf" added="2021-11-04T22:28:15.300905Z" modified="2021-11-04T22:28:15.300914Z" visited="2021-11-04T22:28:15.300907Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2021-11-04T22:28:15.300910Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Downloads/JetBrainsMono/JetBrains%20Mono%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono.ttf" added="2021-11-04T22:28:24.277728Z" modified="2021-11-04T22:28:24.277739Z" visited="2021-11-04T22:28:24.277730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2021-11-04T22:28:24.277733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Downloads/JetBrainsMono/JetBrains%20Mono%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.ttf" added="2021-11-04T22:28:44.961334Z" modified="2021-11-04T22:28:44.961345Z" visited="2021-11-04T22:28:44.961335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2021-11-04T22:28:44.961340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Downloads/JetBrainsMono/JetBrains%20Mono%20Bold%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf" added="2021-11-04T22:28:51.019508Z" modified="2021-11-04T22:28:51.019520Z" visited="2021-11-04T22:28:51.019509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2021-11-04T22:28:51.019514Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Desktop/Python/workspace.code-workspace" added="2021-11-04T23:12:23.673774Z" modified="2021-11-04T23:12:23.673784Z" visited="2021-11-04T23:12:23.673776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-code-workspace"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-11-04T23:12:23.673780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Desktop/main.py" added="2021-11-05T00:01:25.087045Z" modified="2021-11-05T00:01:49.452636Z" visited="2021-11-05T00:01:25.087046Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-11-05T00:01:49.452634Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,94 @@
+[2021-11-04 16:03:59.541] [exthost] [info] Extension host with pid 6058 started
+[2021-11-04 16:03:59.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-04 16:03:59.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-04 16:03:59.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-04 16:04:00.266] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-04 16:04:00.373] [exthost] [info] Eager extensions activated
+[2021-11-04 16:04:00.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:04:00.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-04 16:04:46.187] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:04:47.080] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: false, activationEvent: '*'
+[2021-11-04 16:04:50.266] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:04:50.927] [exthost] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: '*'
+[2021-11-04 16:04:52.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-04 16:04:52.492] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-04 16:04:52.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-04 16:04:57.122] [exthost] [info] ExtensionService#_doActivateExtension extr0py.vscode-relative-line-numbers, startup: false, activationEvent: '*'
+[2021-11-04 16:04:58.133] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: '*'
+[2021-11-04 16:05:01.154] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: false, activationEvent: '*'
+[2021-11-04 16:05:01.159] [exthost] [warning] Could not identify extension for 'vscode' require call from file:///home/omar/.vscode/extensions/hookyqr.beautify-1.5.0/extension.js. These are the extension path mappings: 
+	file:///home/omar/.vscode/extensions/2gua.rainbow-brackets-0.0.6 -> 2gua.rainbow-brackets
+	file:///home/omar/.vscode/extensions/austin.code-gnu-global-0.2.2 -> austin.code-gnu-global
+	file:///home/omar/.vscode/extensions/christian-kohler.npm-intellisense-1.4.0 -> christian-kohler.npm-intellisense
+	file:///home/omar/.vscode/extensions/dart-code.flutter-3.28.0 -> Dart-Code.flutter
+	file:///home/omar/.vscode/extensions/eg2.vscode-npm-script-0.3.23 -> eg2.vscode-npm-script
+	file:///home/omar/.vscode/extensions/extr0py.vscode-relative-line-numbers-0.0.5 -> extr0py.vscode-relative-line-numbers
+	file:///home/omar/.vscode/extensions/fabiospampinato.vscode-monokai-night-1.6.0 -> fabiospampinato.vscode-monokai-night
+	file:///home/omar/.vscode/extensions/formulahendry.code-runner-0.11.6 -> formulahendry.code-runner
+	file:///home/omar/.vscode/extensions/github.copilot-1.7.3689 -> GitHub.copilot
+	file:///home/omar/.vscode/extensions/golang.go-0.29.0 -> golang.go
+	file:///home/omar/.vscode/extensions/hars.cppsnippets-0.0.15 -> hars.CppSnippets
+	file:///home/omar/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.10 -> jeff-hykin.better-cpp-syntax
+	file:///home/omar/.vscode/extensions/mechatroner.rainbow-csv-1.9.1 -> mechatroner.rainbow-csv
+	file:///home/omar/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.19 -> monokai.theme-monokai-pro-vscode
+	file:///home/omar/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0 -> ms-toolsai.jupyter-keymap
+	file:///home/omar/.vscode/extensions/ms-vscode-remote.remote-ssh-0.66.0 -> ms-vscode-remote.remote-ssh
+	file:///home/omar/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.66.0 -> ms-vscode-remote.remote-ssh-edit
+	file:///home/omar/.vscode/extensions/ms-vscode-remote.remote-wsl-0.58.5 -> ms-vscode-remote.remote-wsl
+	file:///home/omar/.vscode/extensions/teabyii.ayu-1.0.5 -> teabyii.ayu
+	file:///home/omar/.vscode/extensions/vintharas.learn-vim-0.0.27 -> vintharas.learn-vim
+	file:///home/omar/.vscode/extensions/vscjava.vscode-java-debug-0.36.0 -> vscjava.vscode-java-debug
+	file:///home/omar/.vscode/extensions/vscjava.vscode-java-dependency-0.18.8 -> vscjava.vscode-java-dependency
+	file:///home/omar/.vscode/extensions/vscjava.vscode-java-test-0.32.0 -> vscjava.vscode-java-test
+	file:///home/omar/.vscode/extensions/xabikos.javascriptsnippets-1.8.0 -> xabikos.JavaScriptSnippets
+	file:///home/omar/.vscode/extensions/zaaack.markdown-editor-0.1.10 -> zaaack.markdown-editor
+	file:///home/omar/.vscode/extensions/zainchen.json-2.0.2 -> ZainChen.json
+	file:///usr/share/code/resources/app/extensions/configuration-editing -> vscode.configuration-editing
+	file:///usr/share/code/resources/app/extensions/css-language-features -> vscode.css-language-features
+	file:///usr/share/code/resources/app/extensions/debug-auto-launch -> vscode.debug-auto-launch
+	file:///usr/share/code/resources/app/extensions/debug-server-ready -> vscode.debug-server-ready
+	file:///usr/share/code/resources/app/extensions/emmet -> vscode.emmet
+	file:///usr/share/code/resources/app/extensions/extension-editing -> vscode.extension-editing
+	file:///usr/share/code/resources/app/extensions/git -> vscode.git
+	file:///usr/share/code/resources/app/extensions/github -> vscode.github
+	file:///usr/share/code/resources/app/extensions/github-authentication -> vscode.github-authentication
+	file:///usr/share/code/resources/app/extensions/grunt -> vscode.grunt
+	file:///usr/share/code/resources/app/extensions/gulp -> vscode.gulp
+	file:///usr/share/code/resources/app/extensions/html-language-features -> vscode.html-language-features
+	file:///usr/share/code/resources/app/extensions/image-preview -> vscode.image-preview
+	file:///usr/share/code/resources/app/extensions/ipynb -> vscode.ipynb
+	file:///usr/share/code/resources/app/extensions/jake -> vscode.jake
+	file:///usr/share/code/resources/app/extensions/json-language-features -> vscode.json-language-features
+	file:///usr/share/code/resources/app/extensions/markdown-language-features -> vscode.markdown-language-features
+	file:///usr/share/code/resources/app/extensions/markdown-math -> vscode.markdown-math
+	file:///usr/share/code/resources/app/extensions/merge-conflict -> vscode.merge-conflict
+	file:///usr/share/code/resources/app/extensions/microsoft-authentication -> vscode.microsoft-authentication
+	file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug -> ms-vscode.js-debug
+	file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug-companion -> ms-vscode.js-debug-companion
+	file:///usr/share/code/resources/app/extensions/ms-vscode.references-view -> ms-vscode.references-view
+	file:///usr/share/code/resources/app/extensions/ms-vscode.vscode-js-profile-table -> ms-vscode.vscode-js-profile-table
+	file:///usr/share/code/resources/app/extensions/npm -> vscode.npm
+	file:///usr/share/code/resources/app/extensions/php-language-features -> vscode.php-language-features
+	file:///usr/share/code/resources/app/extensions/search-result -> vscode.search-result
+	file:///usr/share/code/resources/app/extensions/simple-browser -> vscode.simple-browser
+	file:///usr/share/code/resources/app/extensions/typescript-language-features -> vscode.typescript-language-features
+
+[2021-11-04 16:05:13.045] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: '*'
+[2021-11-04 16:05:14.561] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 16:05:27.239] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: '*'
+[2021-11-04 16:05:41.247] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: '*'
+[2021-11-04 16:05:48.041] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+[2021-11-04 16:12:41.722] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-04 16:12:42.311] [exthost] [error] TypeError: Cannot read property 'timeTelemetryCollector' of undefined
+    at Object.deactivate (/home/omar/.vscode/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:49395:13)
+    at Object.deactivate (/home/omar/.vscode/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:54453:27)
+    at w._deactivate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11449)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9997
+    at Array.map (<anonymous>)
+    at w.deactivateAll (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9985)
+    at b.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:735)
+    at o (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32681)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30296)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-11-04 16:12:43.350] [exthost] [info] Extension host with pid 6058 exiting with code 0

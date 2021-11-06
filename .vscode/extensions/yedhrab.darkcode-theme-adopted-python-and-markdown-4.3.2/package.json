@@ -1,0 +1,109 @@
+{
+	"name": "darkcode-theme-adopted-python-and-markdown",
+	"displayName": "🖤 DarkCode & 🤍 LightCode Theme",
+	"description": "༼ つ ◕_◕ ༽つ Dark & Light theme for cool coders 👩‍💻👨‍💻",
+	"version": "4.3.2",
+	"publisher": "yedhrab",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"icon": "icon.png",
+	"license": "Apache",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"dark code",
+		"darkcode",
+		"dark theme",
+		"darkest",
+		"deep dark",
+		"deep black",
+		"black",
+		"best",
+		"code",
+		"coder",
+		"contrast",
+		"cool",
+		"markdown",
+		"python",
+		"autohotkey",
+		"java"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yedhrab/darkcode-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "🌞 LightCode",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode.json"
+			},
+			{
+				"label": "🌞 LightCode+",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-plus.json"
+			},
+			{
+				"label": "🌞 LightCode++",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-plus-plus.json"
+			},
+			{
+				"label": "☀️ LightCode Contrast",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-contrast.json"
+			},
+			{
+				"label": "☀️ LightCode Contrast+",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-contrast-plus.json"
+			},
+			{
+				"label": "☀️ LightCode Contrast++",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-contrast-plus-plus.json"
+			},
+			{
+				"label": "🌚 DarkCode",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode.json"
+			},
+			{
+				"label": "🌚 DarkCode+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-plus.json"
+			},
+			{
+				"label": "🌚 DarkCode++",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-plus-plus.json"
+			},
+			{
+				"label": "🌑 DarkCode Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-contrast.json"
+			},
+			{
+				"label": "🌑 DarkCode Contrast+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-contrast-plus.json"
+			},
+			{
+				"label": "🌑 DarkCode Contrast++",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-contrast-plus-plus.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "caa396c7-8ad2-4a86-9a3c-40179d991fb8",
+		"publisherId": "42219523-4109-45a6-b060-c377122feea1",
+		"publisherDisplayName": "yedhrab",
+		"installedTimestamp": 1636067101031
+	}
+}

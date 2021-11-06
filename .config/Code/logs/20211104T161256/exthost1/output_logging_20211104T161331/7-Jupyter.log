@@ -1,0 +1,26 @@
+Info 2021-11-04 16:13:31: Experimentation service retrieved: [object Object]
+Info 2021-11-04 16:13:31: ZMQ install verified.
+Info 2021-11-04 16:13:32: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 2021-11-04 16:13:32: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-11-04 16:13:32: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-11-04 16:13:33: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-11-04 16:13:33: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-11-04 16:13:33: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-11-04 16:13:33: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-11-04 16:15:56: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-11-04 16:15:56: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-11-04 16:16:08: Shutting down notebooks for 630c58d3-f225-4291-9455-22a3962e2a3b
+Info 2021-11-04 16:16:08: Disposing HostJupyterExecution bab31514-fd3d-497f-9e19-ef46d6409c51
+Info 2021-11-04 16:16:08: Disposing super HostJupyterExecution bab31514-fd3d-497f-9e19-ef46d6409c51
+Info 2021-11-04 16:16:08: Disposing HostJupyterExecution bab31514-fd3d-497f-9e19-ef46d6409c51
+Info 2021-11-04 16:16:08: Finished disposing HostJupyterExecution  bab31514-fd3d-497f-9e19-ef46d6409c51
+Info 2021-11-04 16:16:08: Cleaning up server cache bab31514-fd3d-497f-9e19-ef46d6409c51
+Info 2021-11-04 16:16:08: Finished disposing HostJupyterExecution  bab31514-fd3d-497f-9e19-ef46d6409c51

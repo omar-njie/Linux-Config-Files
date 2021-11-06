@@ -1,0 +1,53 @@
+this._G=this._G||{};(function(_){var window=this;
+try{
+_.q("sy4b");
+
+_.SV=function(a,b){a=a||{};return(0,_.B)(_.J("Qc","",!0)(a,b))};
+
+_.G("Qc","",1,function(a,b){a=a||{};var c=_.B,d=a.Ga,e=a.source,f=a.Jc;b=(0,_.B)(_.eP(_.Rr({label:a.label,name:a.name,Nd:a.Nd,Jr:"PkCcVd"+(a.Ti?" eLNT1d":""),Ga:d?d:"jFxqbc",Pa:"IYybaf",maxLength:a.maxLength,pattern:"[0-9 ]*",type:""+_.J("ta","",!1)(null,b),Aj:!0,Qs:(0,_.K)(_.Tr(e,"sms")?"G-":""),Jc:f,autocapitalize:"off",autocorrect:"off"},a),b));return c(b)});
+
+_.r();
+
+}catch(e){_._DumpException(e)}
+try{
+_.q("sy4c");
+
+
+_.r();
+
+}catch(e){_._DumpException(e)}
+try{
+_.q("sy4y");
+
+_.RX=function(a){_.dR.call(this,a);this.Hb=_.eR(this,_.zC,function(b){return b.aa})};_.y(_.RX,_.dR);
+
+_.r();
+
+}catch(e){_._DumpException(e)}
+try{
+_.q("sy52");
+
+_.icb=function(a,b){a=""+_.T({Ga:"contentCodeVerification",text:(0,_.K)("Verifying your phone automatically via text message")},b);a+=_.T({text:(0,_.K)("This may take a few minutes...")},b);return(0,_.B)(a)};_.jcb=function(a,b){b="A text message with a 6-digit verification code was just sent to "+_.rK({Rd:""+b},a);a=""+_.T({text:(0,_.K)(b)},a);return(0,_.B)(a)};_.G("cd","",0,function(a,b){return(0,_.B)(_.sV(b,a.Ba,a.ka))});
+_.G("bd","",0,function(a,b){return(0,_.B)(_.rV({Ra:a.Ra,ka:a.ka,Ba:a.Ba,heading:a.heading,Ad:a.Ad,Pa:a.Pa,Ya:a.Ya,cb:a.cb,Xa:a.Xa,Gb:a.Gb,Lb:a.Lb,title:a.title,Df:a.Df,nj:a.nj,Ef:a.Ef,oj:a.oj},b))});
+
+_.r();
+
+}catch(e){_._DumpException(e)}
+try{
+_.q("ipp_view");
+
+var kcb=function(a){return(0,_.B)('<span jsname="'+_.L("wKtwcc")+'" class="'+_.L("fyYaqe")+'" dir="ltr">'+_.C(a)+"</span>")},lcb=function(){return(0,_.B)("<em>Standard rates apply</em>")},XX=function(){return(0,_.B)("Get a verification code")},mcb=function(){return(0,_.B)("Enter the code")},ncb=function(a){var b=a.Ba,c="USERNAME_RECOVERY"==b.hb().getContext();c||(b=b.hb(),c=null==b?null:_.qV(b));return c?"":_.tV(_.Rr({rd:!0},a))},ocb=function(a,b){var c=a.Hb,d=a.Ba,e=a.ka,f=a.yC,h="",m=d.hb(),p=_.vn(m);
+_.wn(m);var t=d.hb().getContext(),x=_.kj(p,3)[0],A="";if("USERNAME_RECOVERY"==t)switch(m=m.xb(),_.Va(m)?m.toString():m){case "INITIALIZED":A+=XX();break;default:A+=mcb()}else"ACCOUNT_RECOVERY"==t&&(A+=_.lV());m="";switch(_.Va(x)?x.toString():x){case "VOICE":m+="Call";break;default:m+="Send"}t="";if(f)x=t,p="To get a verification code, first confirm the phone number you added to your account "+_.rK({Rd:""+_.v(p,1)},b)+".",p+=" "+lcb(),p=(0,_.B)(p),t=x+_.T({text:(0,_.K)(""+p)},b),t+=_.cR({Ie:_.Qn(c),
+label:"Phone number"},b);else{c=t;f=_.v(p,1);p="";switch(_.Va(x)?x.toString():x){case "VOICE":x="Google will call "+kcb(f)+" with a verification code.";kcb(f);p=p+x+" ";break;default:x="Google will send a verification code to "+kcb(f)+".",p=p+x+(" "+lcb())}x=(0,_.B)(p);t=c+_.T({text:(0,_.K)(""+x)},b)}h+=_.J("bd","",!1)({ka:e,Ba:d,Ra:"yFJc2b",Pa:"nSX7Wb",Ya:"jAayhb:W8Dszc;",title:(0,_.K)(A),heading:(0,_.K)(""+XX()),Lb:(0,_.K)(""+_.J("cd","",!1)({Ba:d,ka:e},b)),Ad:"accountRecoverySmsPin",Gb:ncb(a),
+Xa:m,cb:(0,_.K)(t)},b);return(0,_.B)(h)},pcb={Sa:function(a,b){var c=_.B;a={ka:a.Qa.ka,Ba:a.Ba.Ba,Hb:a.Hb.Hb};var d=a.Ba,e="",f=d.hb(),h=_.vn(f);d.hb().getContext();if(_.z(h,6)&&!_.z(_.wn(f),8))e+=ocb(_.Rr({yC:!0},a),b);else switch(d=f.xb(),_.Va(d)?d.toString():d){case "INITIALIZED":if(1<_.kj(h,3).length){h=a.Ba;d=a.ka;f="";var m=h.hb();_.wn(m);var p=h.hb().getContext(),t="";if("USERNAME_RECOVERY"==p)switch(p=m.xb(),_.Va(p)?p.toString():p){case "INITIALIZED":t+=XX();break;default:t+=mcb()}else"ACCOUNT_RECOVERY"==
+p&&(t+=_.lV());m="Google will send a verification code to "+_.rK({Rd:_.v(_.vn(m),1)},b)+".";m+=" "+lcb();m=""+_.T({text:(0,_.K)(m)},b);f+=_.J("bd","",!1)({ka:d,Ba:h,Pa:"nSX7Wb",Ya:"jAayhb:W8Dszc;kAgMve:SCOQfb;YqB9e:M2mef;",title:(0,_.K)(t),Lb:(0,_.K)(""+_.J("cd","",!1)({Ba:h,ka:d},b)),heading:(0,_.K)(""+XX()),Ad:"accountRecoverySmsOrVoicePin",Gb:ncb(a),cb:(0,_.K)(m),Df:"Text",nj:"smsButton",Ef:"Call",oj:"voiceButton"},b);b=(0,_.B)(f)}else b=ocb(_.Rr({yC:!1},a),b);e+=b;break;default:h=a.Ba;d=a.ka;
+t="";m=h.hb();_.vn(m);f=_.wn(m);var x=h.hb().getContext();h.hb().getContext();p="";if("USERNAME_RECOVERY"==x)switch(m=m.xb(),_.Va(m)?m.toString():m){case "INITIALIZED":p+=XX();break;default:p+=mcb()}else"ACCOUNT_RECOVERY"==x&&(p+=_.lV());m=_.J("bd","",!1);p=(0,_.K)(p);x=(0,_.K)(""+_.J("cd","",!1)({Ba:h,ka:d},b));var A="BACKGROUND_SMS"!=_.v(f,5)?_.VJ():"",D=ncb(a);if("BACKGROUND_SMS"==_.v(f,5))a=_.icb(null,b);else{var E=_.Rr({uea:_.z(f,8)},a);a=E.Ba;var H=E.uea;E="";var I=_.wn(a.hb());H=H?_.v(I,9):
+_.v(_.vn(a.hb()),1);a.hb().getContext();"VOICE"==_.v(I,5)?(a="Google is calling "+_.rK({Rd:H},b)+" with a 6-digit verification code",E+=a):E+=_.jcb(b,H);a=(0,_.B)(E)}t+=m({ka:d,Ba:h,Pa:"nSX7Wb",Ya:"jAayhb:W8Dszc;",title:p,Lb:x,Xa:A,Ab:"idvPreregisteredPhoneNext",Gb:D,cb:(0,_.K)(""+a+_.SV({name:"idvPin",Nd:"idvPin",label:"Enter the code",source:"VOICE"!=_.v(f,5)?"sms":"voice",Ti:"BACKGROUND_SMS"==_.v(f,5)},b))},b);b=(0,_.B)(t);e+=b}b=(0,_.B)(e);return c(b)},Wa:_.$Q({Qa:_.wR,Hb:_.RX,Ba:_.jV}),title:"ignore"};
+_.BBa.aa(pcb);_.CBa.aa(pcb);
+
+
+_.r();
+
+}catch(e){_._DumpException(e)}
+})(this._G);
+// Google Inc.
